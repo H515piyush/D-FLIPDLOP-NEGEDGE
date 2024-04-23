@@ -65,7 +65,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![323297856-20e4b3df-7c8e-49d3-b6e4-2056006a80ec](https://github.com/H515piyush/D-FLIPDLOP-NEGEDGE/assets/147472999/85a72068-5790-4f5f-90b4-76856845d807)
+![digi ex8 waveoutput](https://github.com/H515piyush/D-FLIPDLOP-NEGEDGE/assets/147472999/89bd21ee-bb7f-4bc7-838a-01b498df0e76)
+
 
 **RESULT**
 
